@@ -1,6 +1,6 @@
 # Java Roadmap
 <details>
-<summary><strong> 1. Getting Started with Java</strong></summary>
+## <summary><strong> 1. Getting Started with Java</strong></summary>
 
 - [ ] Java - Home
 - [ ] Java - Overview
