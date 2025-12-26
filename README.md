@@ -19,7 +19,7 @@ Each section of this roadmap is implemented in a separate repository.
 
 | # | Section | Status | Repository |
 |---|---------|--------|------------|
-| 1 | Getting Started with Java | [ ] | |
+| 1 | Getting Started with Java | [ ] | https://github.com/kramkvol/java_roadmap_part1 |
 | 2 | Java Basics | [ ] | |
 | 3 | Conditional Statements | [ ] | |
 | 4 | Loops & Control Flow | [ ] | |
