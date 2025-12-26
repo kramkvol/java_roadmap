@@ -1,4 +1,5 @@
 # My Java Roadmap
+
 Short Java revision marathon focused on fundamentals and practice.
 
 - **Start date:** 2025-12-27
@@ -6,7 +7,40 @@ Short Java revision marathon focused on fundamentals and practice.
 - **Daily minimum:** 45 minutes
 - **Goal:** organize Java fundamentals and practice with real projects
 
-My blog on LinkedIn: https://www.linkedin.com/in/volha-kramko-a47526323/
+**Main learning resource:**  
+https://www.tutorialspoint.com/java/index.htm
+
+**My blog on LinkedIn:**  
+https://www.linkedin.com/in/volha-kramko-a47526323/
+
+## Repositories
+Each section of this roadmap is implemented in a separate repository.
+
+| # | Section | Repository |
+|---|---------|------------|
+| 1 | Getting Started with Java 
+- [ ] Java - Home
+- [ ] Java - Overview
+- [ ] Java - History
+- [ ] Java - Features
+- [ ] Java Vs. C++
+- [ ] JVM - Java Virtual Machine
+- [ ] Java - JDK vs JRE vs JVM
+- [ ] Java - Hello World Program
+- [ ] Java - Environment Setup
+- [ ] Java - Basic Syntax|  |
+| 2 | Java Basics |  |
+| 3 | Conditional Statements |  |
+| 4 | Loops & Control Flow |  |
+| 5 | Strings & Arrays | |
+| 6 | Object-Oriented Programming (OOP) |  |
+| 7 | Collections & Interfaces |  |
+| 8 | Exception Handling & File I/O |  |
+| 9 | Multithreading |  |
+|10 | Practice & Mini Projects |  |
+|11 | Java References |  |
+
+## Progress
 
 | Date       | Day | Notes / Output | LinkedIn Report |
 |------------|-----|----------------|-----------------|
@@ -15,6 +49,25 @@ My blog on LinkedIn: https://www.linkedin.com/in/volha-kramko-a47526323/
 | 2025-12-29 |  3  |                |                 |
 | 2025-12-30 |  4  |                |                 |
 | 2025-12-31 |  5  |                |                 |
+
+## Repositories
+
+Each section of this roadmap is implemented in a separate repository.
+
+| # | Section | Repository |
+|---|---------|------------|
+| 1 | Getting Started with Java | link |
+| 2 | Java Basics | link |
+| 3 | Conditional Statements | link |
+| 4 | Loops & Control Flow | link |
+| 5 | Strings & Arrays | link |
+| 6 | Object-Oriented Programming (OOP) | link |
+| 7 | Collections & Interfaces | link |
+| 8 | Exception Handling & File I/O | link |
+| 9 | Multithreading | link |
+|10 | Practice & Mini Projects | link |
+|11 | Java References | link |
+
 
 ## 1. Getting Started with Java
 <details><summary><strong> 1. Getting Started with Java</strong></summary>
