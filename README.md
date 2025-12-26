@@ -1,6 +1,7 @@
 # Java Roadmap
 <details>
 <summary><strong> 1. Getting Started with Java</strong></summary>
+
 - [ ] Java - Home
 - [ ] Java - Overview
 - [ ] Java - History
@@ -16,6 +17,7 @@
 
 <details>
 <summary><strong>2. Java Basics</strong></summary>
+
 - [ ] Java - Variable Types
 - [ ] Java - Data Types
 - [ ] Java - Type Casting
@@ -29,6 +31,7 @@
 
 <details>
 <summary><strong>3. Java Conditional Statements</strong></summary>
+
 - [ ] Java - Decision Making
 - [ ] Java - If-else
 - [ ] Java - Switch
@@ -37,6 +40,7 @@
 
 <details>
 <summary><strong>4. Java Loops and Control Statements</strong></summary>
+
 - [ ] Java - Loop Control
 - [ ] Java - For Loops
 - [ ] Java - For-Each Loops
@@ -49,6 +53,7 @@
 
 <details>
 <summary><strong>.5. Java String and Arrays</strong></summary>
+
 - [ ] Java Strings and String Class
 - [ ] Java - Strings
 
@@ -56,6 +61,7 @@
 
 <details>
 <summary><strong>6. Java OOPs</strong></summary>
+
 - [ ] Java - OOPs Concepts
 - [ ] Java - Object & Classes
 - [ ] Java - Class Attributes
@@ -79,6 +85,7 @@
 
 <details>
 <summary><strong>7. Java Collections and Interfaces</strong></summary>
+
 - [ ] Java - Interfaces
 - [ ] Java - List Interface
 - [ ] Java - Queue Interface
@@ -96,6 +103,7 @@
 
 <details>
 <summary><strong>8. Java Exceptional Handling & File I/O</strong></summary>
+
 - [ ] Java - Files
 - [ ] Java - Create a File
 - [ ] Java - Write to File
@@ -108,6 +116,7 @@
 
 <details>
 <summary><strong>9. Java Multithreading</strong></summary>
+
 - [ ] Java - Multithreading
 - [ ] Java - Thread Life Cycle
 - [ ] Java - Creating a Thread
@@ -126,6 +135,7 @@
 
 <details>
 <summary><strong>10. Java Practices</strong></summary>
+
 - [ ] Java Quick Guide
 - [ ] Java Interview Questions
 - [ ] Java 8 Interview Questions
@@ -136,6 +146,7 @@
 
 <details>
 <summary><strong>11. Java References</strong></summary>
+
 - [ ] Java Scanner Class
 - [ ] Java Arrays Class
 - [ ] Java Strings Class
