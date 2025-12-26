@@ -1,4 +1,21 @@
-# Java Roadmap
+# My Java Roadmap
+Short Java revision marathon focused on fundamentals and practice.
+
+- **Start date:** 2025-12-27
+- **Duration:** 5 days
+- **Daily minimum:** 45 minutes
+- **Goal:** organize Java fundamentals and practice with real projects
+
+My blog on LinkedIn: https://www.linkedin.com/in/volha-kramko-a47526323/
+
+| Date       | Day | Notes / Output | Link |
+|------------|-----|----------------|------|
+| 2025-12-27 |  1  |                |      |
+| 2025-12-28 |  2  |                |      |
+| 2025-12-29 |  3  |                |      |
+| 2025-12-30 |  4  |                |      |
+| 2025-12-31 |  5  |                |      |
+
 ## 1. Getting Started with Java
 <details><summary><strong> 1. Getting Started with Java</strong></summary>
 
