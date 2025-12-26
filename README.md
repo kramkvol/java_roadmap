@@ -13,6 +13,16 @@ https://www.tutorialspoint.com/java/index.htm
 **My blog on LinkedIn:**  
 https://www.linkedin.com/in/volha-kramko-a47526323/
 
+## Progress
+
+| Date       | Day | Notes / Output | LinkedIn Report |
+|------------|-----|----------------|-----------------|
+| 2025-12-27 |  1  |                |                 |
+| 2025-12-28 |  2  |                |                 |
+| 2025-12-29 |  3  |                |                 |
+| 2025-12-30 |  4  |                |                 |
+| 2025-12-31 |  5  |                |                 |        
+
 ## Repositories
 
 Each section of this roadmap is implemented in a separate repository.
@@ -29,19 +39,9 @@ Each section of this roadmap is implemented in a separate repository.
 | 8 | Exception Handling & File I/O | [ ] | |
 | 9 | Multithreading | [ ] | |
 |10 | Practice & Mini Projects | [ ] | |
-|11 | Java References | [ ] | ||
+|11 | Java References | [ ] | ||         
 
-## Progress
-
-| Date       | Day | Notes / Output | LinkedIn Report |
-|------------|-----|----------------|-----------------|
-| 2025-12-27 |  1  |                |                 |
-| 2025-12-28 |  2  |                |                 |
-| 2025-12-29 |  3  |                |                 |
-| 2025-12-30 |  4  |                |                 |
-| 2025-12-31 |  5  |                |                 |                 
-
-## 1. Getting Started with Java
+### 1. Getting Started with Java
 
 | Done | Topic |
 |------|-------|
@@ -56,7 +56,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Java - Environment Setup |
 | [ ] | Java - Basic Syntax |
 
-## 2. Java Basics
+### 2. Java Basics
 
 | Done | Topic |
 |------|-------|
@@ -69,7 +69,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | User Input |
 | [ ] | Date & Time |
 
-## 3. Java Conditional Statements
+### 3. Java Conditional Statements
 
 | Done | Topic |
 |------|-------|
@@ -77,7 +77,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | If-else |
 | [ ] | Switch |
 
-## 4. Java Loops and Control Statements
+### 4. Java Loops and Control Statements
 
 | Done | Topic |
 |------|-------|
@@ -89,14 +89,14 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Break |
 | [ ] | Continue |
 
-## 5. Java Strings and Arrays
+### 5. Java Strings and Arrays
 
 | Done | Topic |
 |------|-------|
 | [ ] | Strings and String Class |
 | [ ] | Strings |
 
-## 6. Object-Oriented Programming (OOP)
+### 6. Object-Oriented Programming (OOP)
 
 | Done | Topic |
 |------|-------|
@@ -119,7 +119,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Abstraction |
 | [ ] | Encapsulation |
 
-## 7. Collections and Interfaces
+### 7. Collections and Interfaces
 
 | Done | Topic |
 |------|-------|
@@ -136,7 +136,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Collections |
 | [ ] | Collection Interface |
 
-## 8. Exception Handling & File I/O
+### 8. Exception Handling & File I/O
 
 | Done | Topic |
 |------|-------|
@@ -148,7 +148,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Directories |
 | [ ] | I/O Streams |
 
-## 9. Java Multithreading
+### 9. Java Multithreading
 
 | Done | Topic |
 |------|-------|
@@ -166,7 +166,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Thread Group |
 | [ ] | Shutdown Hook |
 
-## 10. Java Practices
+### 10. Java Practices
 
 | Done | Topic |
 |------|-------|
@@ -176,7 +176,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Online Test |
 | [ ] | Mock Test |
 
-## 11. Java References
+### 11. Java References
 
 | Done | Topic |
 |------|-------|
