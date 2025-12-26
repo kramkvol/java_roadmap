@@ -1,6 +1,6 @@
 # Java Roadmap
-<details>
-## <summary><strong> 1. Getting Started with Java</strong></summary>
+## 1. Getting Started with Java
+<details><summary><strong> 1. Getting Started with Java</strong></summary>
 
 - [ ] Java - Home
 - [ ] Java - Overview
@@ -15,8 +15,8 @@
 
 </details>
 
-<details>
-<summary><strong>2. Java Basics</strong></summary>
+## 2. Java Basics
+<details><summary><strong>2. Java Basics</strong></summary>
 
 - [ ] Java - Variable Types
 - [ ] Java - Data Types
@@ -29,8 +29,8 @@
 
 </details>
 
-<details>
-<summary><strong>3. Java Conditional Statements</strong></summary>
+## 3. Java Conditional Statements
+<details><summary><strong>3. Java Conditional Statements</strong></summary>
 
 - [ ] Java - Decision Making
 - [ ] Java - If-else
@@ -39,6 +39,8 @@
 </details>
 
 <details>
+
+## 4. Java Loops and Control Statements
 <summary><strong>4. Java Loops and Control Statements</strong></summary>
 
 - [ ] Java - Loop Control
@@ -51,16 +53,16 @@
 
 </details>
 
-<details>
-<summary><strong>.5. Java String and Arrays</strong></summary>
+## 5. Java String and Arrays
+<details><summary><strong>5. Java String and Arrays</strong></summary>
 
 - [ ] Java Strings and String Class
 - [ ] Java - Strings
 
 </details>
 
-<details>
-<summary><strong>6. Java OOPs</strong></summary>
+## 6. Java OOPs
+<details><summary><strong>6. Java OOPs</strong></summary>
 
 - [ ] Java - OOPs Concepts
 - [ ] Java - Object & Classes
@@ -83,8 +85,8 @@
 
 </details>
 
-<details>
-<summary><strong>7. Java Collections and Interfaces</strong></summary>
+## 7. Java Collections and Interfaces
+<details><summary><strong>7. Java Collections and Interfaces</strong></summary>
 
 - [ ] Java - Interfaces
 - [ ] Java - List Interface
@@ -115,6 +117,8 @@
 </details>
 
 <details>
+
+## 9. Java Multithreading
 <summary><strong>9. Java Multithreading</strong></summary>
 
 - [ ] Java - Multithreading
@@ -133,8 +137,8 @@
 
 </details>
 
-<details>
-<summary><strong>10. Java Practices</strong></summary>
+## 10. Java Practices
+<details><summary><strong>10. Java Practices</strong></summary>
 
 - [ ] Java Quick Guide
 - [ ] Java Interview Questions
@@ -144,8 +148,8 @@
 
 </details>
 
-<details>
-<summary><strong>11. Java References</strong></summary>
+## 11. Java References
+<details><summary><strong>11. Java References</strong></summary>
 
 - [ ] Java Scanner Class
 - [ ] Java Arrays Class
