@@ -13,240 +13,196 @@ https://www.tutorialspoint.com/java/index.htm
 **My blog on LinkedIn:**  
 https://www.linkedin.com/in/volha-kramko-a47526323/
 
-## Repositories
-Each section of this roadmap is implemented in a separate repository.
-
-| # | Section | Repository |
-|---|---------|------------|
-| 1 | Getting Started with Java 
-- [ ] Java - Home
-- [ ] Java - Overview
-- [ ] Java - History
-- [ ] Java - Features
-- [ ] Java Vs. C++
-- [ ] JVM - Java Virtual Machine
-- [ ] Java - JDK vs JRE vs JVM
-- [ ] Java - Hello World Program
-- [ ] Java - Environment Setup
-- [ ] Java - Basic Syntax|  |
-| 2 | Java Basics |  |
-| 3 | Conditional Statements |  |
-| 4 | Loops & Control Flow |  |
-| 5 | Strings & Arrays | |
-| 6 | Object-Oriented Programming (OOP) |  |
-| 7 | Collections & Interfaces |  |
-| 8 | Exception Handling & File I/O |  |
-| 9 | Multithreading |  |
-|10 | Practice & Mini Projects |  |
-|11 | Java References |  |
-
 ## Progress
 
-| Date       | Day | Notes / Output | LinkedIn Report |
-|------------|-----|----------------|-----------------|
-| 2025-12-27 |  1  |                |                 |
-| 2025-12-28 |  2  |                |                 |
-| 2025-12-29 |  3  |                |                 |
-| 2025-12-30 |  4  |                |                 |
-| 2025-12-31 |  5  |                |                 |
+| Date       | Day | Focus | Notes / Output | LinkedIn Report |
+|------------|-----|-------|----------------|-----------------|
+| 2025-12-27 |  1  |       |                |                 |
+| 2025-12-28 |  2  |       |                |                 |
+| 2025-12-29 |  3  |       |                |                 |
+| 2025-12-30 |  4  |       |                |                 |
+| 2025-12-31 |  5  |       |                |                 
 
 ## Repositories
 
 Each section of this roadmap is implemented in a separate repository.
 
-| # | Section | Repository |
-|---|---------|------------|
-| 1 | Getting Started with Java | link |
-| 2 | Java Basics | link |
-| 3 | Conditional Statements | link |
-| 4 | Loops & Control Flow | link |
-| 5 | Strings & Arrays | link |
-| 6 | Object-Oriented Programming (OOP) | link |
-| 7 | Collections & Interfaces | link |
-| 8 | Exception Handling & File I/O | link |
-| 9 | Multithreading | link |
-|10 | Practice & Mini Projects | link |
-|11 | Java References | link |
-
+| # | Section | Status | Repository |
+|---|---------|--------|------------|
+| 1 | Getting Started with Java | [ ] | |
+| 2 | Java Basics | [ ] | |
+| 3 | Conditional Statements | [ ] | |
+| 4 | Loops & Control Flow | [ ] | |
+| 5 | Strings & Arrays | [ ] | |
+| 6 | Object-Oriented Programming (OOP) | [ ] | |
+| 7 | Collections & Interfaces | [ ] | |
+| 8 | Exception Handling & File I/O | [ ] | |
+| 9 | Multithreading | [ ] | |
+|10 | Practice & Mini Projects | [ ] | |
+|11 | Java References | [ ] | ||
 
 ## 1. Getting Started with Java
-<details><summary><strong> 1. Getting Started with Java</strong></summary>
 
-- [ ] Java - Home
-- [ ] Java - Overview
-- [ ] Java - History
-- [ ] Java - Features
-- [ ] Java Vs. C++
-- [ ] JVM - Java Virtual Machine
-- [ ] Java - JDK vs JRE vs JVM
-- [ ] Java - Hello World Program
-- [ ] Java - Environment Setup
-- [ ] Java - Basic Syntax
-
-</details>
+| Done | Topic |
+|------|-------|
+| [ ] | Java - Home |
+| [ ] | Java - Overview |
+| [ ] | Java - History |
+| [ ] | Java - Features |
+| [ ] | Java Vs. C++ |
+| [ ] | JVM - Java Virtual Machine |
+| [ ] | Java - JDK vs JRE vs JVM |
+| [ ] | Java - Hello World Program |
+| [ ] | Java - Environment Setup |
+| [ ] | Java - Basic Syntax |
 
 ## 2. Java Basics
-<details><summary><strong>2. Java Basics</strong></summary>
 
-- [ ] Java - Variable Types
-- [ ] Java - Data Types
-- [ ] Java - Type Casting
-- [ ] Java - Unicode System
-- [ ] Java - Basic Operators
-- [ ] Java - Comments
-- [ ] Java - User Input
-- [ ] Java - Date & Time
-
-</details>
+| Done | Topic |
+|------|-------|
+| [ ] | Variable Types |
+| [ ] | Data Types |
+| [ ] | Type Casting |
+| [ ] | Unicode System |
+| [ ] | Basic Operators |
+| [ ] | Comments |
+| [ ] | User Input |
+| [ ] | Date & Time |
 
 ## 3. Java Conditional Statements
-<details><summary><strong>3. Java Conditional Statements</strong></summary>
 
-- [ ] Java - Decision Making
-- [ ] Java - If-else
-- [ ] Java - Switch
-
-</details>
-
-<details>
+| Done | Topic |
+|------|-------|
+| [ ] | Decision Making |
+| [ ] | If-else |
+| [ ] | Switch |
 
 ## 4. Java Loops and Control Statements
-<summary><strong>4. Java Loops and Control Statements</strong></summary>
 
-- [ ] Java - Loop Control
-- [ ] Java - For Loops
-- [ ] Java - For-Each Loops
-- [ ] Java - While Loops
-- [ ] Java - do-while Loops
-- [ ] Java - Break
-- [ ] Java - Continue
+| Done | Topic |
+|------|-------|
+| [ ] | Loop Control |
+| [ ] | For Loops |
+| [ ] | For-Each Loops |
+| [ ] | While Loops |
+| [ ] | Do-while Loops |
+| [ ] | Break |
+| [ ] | Continue |
 
-</details>
+## 5. Java Strings and Arrays
 
-## 5. Java String and Arrays
-<details><summary><strong>5. Java String and Arrays</strong></summary>
+| Done | Topic |
+|------|-------|
+| [ ] | Strings and String Class |
+| [ ] | Strings |
 
-- [ ] Java Strings and String Class
-- [ ] Java - Strings
+## 6. Object-Oriented Programming (OOP)
 
-</details>
+| Done | Topic |
+|------|-------|
+| [ ] | OOP Concepts |
+| [ ] | Objects & Classes |
+| [ ] | Class Attributes |
+| [ ] | Class Methods |
+| [ ] | Methods |
+| [ ] | Variable Scope |
+| [ ] | Constructors |
+| [ ] | Access Modifiers |
+| [ ] | Inheritance |
+| [ ] | Aggregation |
+| [ ] | Polymorphism |
+| [ ] | Overriding |
+| [ ] | Method Overloading |
+| [ ] | Dynamic Binding |
+| [ ] | Static Binding |
+| [ ] | Instance Initializer Block |
+| [ ] | Abstraction |
+| [ ] | Encapsulation |
 
-## 6. Java OOPs
-<details><summary><strong>6. Java OOPs</strong></summary>
+## 7. Collections and Interfaces
 
-- [ ] Java - OOPs Concepts
-- [ ] Java - Object & Classes
-- [ ] Java - Class Attributes
-- [ ] Java - Class Methods
-- [ ] Java - Methods
-- [ ] Java - Variables Scope
-- [ ] Java - Constructors
-- [ ] Java - Access Modifiers
-- [ ] Java - Inheritance
-- [ ] Java - Aggregation
-- [ ] Java - Polymorphism
-- [ ] Java - Overriding
-- [ ] Java - Method Overloading
-- [ ] Java - Dynamic Binding
-- [ ] Java - Static Binding
-- [ ] Java - Instance Initializer Block
-- [ ] Java - Abstraction
-- [ ] Java - Encapsulation
+| Done | Topic |
+|------|-------|
+| [ ] | Interfaces |
+| [ ] | List Interface |
+| [ ] | Queue Interface |
+| [ ] | Map Interface |
+| [ ] | SortedMap Interface |
+| [ ] | Set Interface |
+| [ ] | SortedSet Interface |
+| [ ] | Iterators |
+| [ ] | Comparators |
+| [ ] | Comparable Interface |
+| [ ] | Collections |
+| [ ] | Collection Interface |
 
-</details>
+## 8. Exception Handling & File I/O
 
-## 7. Java Collections and Interfaces
-<details><summary><strong>7. Java Collections and Interfaces</strong></summary>
-
-- [ ] Java - Interfaces
-- [ ] Java - List Interface
-- [ ] Java - Queue Interface
-- [ ] Java - Map Interface
-- [ ] Java - SortedMap Interface
-- [ ] Java - Set Interface
-- [ ] Java - SortedSet Interface
-- [ ] Java - Iterators
-- [ ] Java - Comparators
-- [ ] Java - Comparable Interface
-- [ ] Java - Collections
-- [ ] Java - Collection Interface
-
-</details>
-
-<details>
-<summary><strong>8. Java Exceptional Handling & File I/O</strong></summary>
-
-- [ ] Java - Files
-- [ ] Java - Create a File
-- [ ] Java - Write to File
-- [ ] Java - Read Files
-- [ ] Java - Delete Files
-- [ ] Java - Directories
-- [ ] Java - I/O Streams
-
-</details>
-
-<details>
+| Done | Topic |
+|------|-------|
+| [ ] | Files |
+| [ ] | Create a File |
+| [ ] | Write to File |
+| [ ] | Read Files |
+| [ ] | Delete Files |
+| [ ] | Directories |
+| [ ] | I/O Streams |
 
 ## 9. Java Multithreading
-<summary><strong>9. Java Multithreading</strong></summary>
 
-- [ ] Java - Multithreading
-- [ ] Java - Thread Life Cycle
-- [ ] Java - Creating a Thread
-- [ ] Java - Starting a Thread
-- [ ] Java - Joining Threads
-- [ ] Java - Naming Thread
-- [ ] Java - Thread Scheduler
-- [ ] Java - Thread Pools
-- [ ] Java - Main Thread
-- [ ] Java - Thread Priority
-- [ ] Java - Daemon Threads
-- [ ] Java - Thread Group
-- [ ] Java - Shutdown Hook
-
-</details>
+| Done | Topic |
+|------|-------|
+| [ ] | Multithreading |
+| [ ] | Thread Life Cycle |
+| [ ] | Creating a Thread |
+| [ ] | Starting a Thread |
+| [ ] | Joining Threads |
+| [ ] | Naming Thread |
+| [ ] | Thread Scheduler |
+| [ ] | Thread Pools |
+| [ ] | Main Thread |
+| [ ] | Thread Priority |
+| [ ] | Daemon Threads |
+| [ ] | Thread Group |
+| [ ] | Shutdown Hook |
 
 ## 10. Java Practices
-<details><summary><strong>10. Java Practices</strong></summary>
 
-- [ ] Java Quick Guide
-- [ ] Java Interview Questions
-- [ ] Java 8 Interview Questions
-- [ ] Java Online Test
-- [ ] Java Mock Test
-
-</details>
+| Done | Topic |
+|------|-------|
+| [ ] | Quick Guide |
+| [ ] | Interview Questions |
+| [ ] | Java 8 Interview Questions |
+| [ ] | Online Test |
+| [ ] | Mock Test |
 
 ## 11. Java References
-<details><summary><strong>11. Java References</strong></summary>
 
-- [ ] Java Scanner Class
-- [ ] Java Arrays Class
-- [ ] Java Strings Class
-- [ ] Java Date Class
-- [ ] Java ArrayList Class
-- [ ] Java Vector Class
-- [ ] Java Stack Class
-- [ ] Java PriorityQueue Class
-- [ ] Java LinkedList Class
-- [ ] Java ArrayDeque Class
-- [ ] Java HashMap Class
-- [ ] Java LinkedHashMap Class
-- [ ] Java WeakHashMap Class
-- [ ] Java EnumMap Class
-- [ ] Java TreeMap Class
-- [ ] Java IdentityHashMap Class
-- [ ] Java HashSet Class
-- [ ] Java EnumSet Class
-- [ ] Java LinkedHashSet Class
-- [ ] Java TreeSet Class
-- [ ] Java BitSet Class
-- [ ] Java Dictionary Class
-- [ ] Java Hashtable Class
-- [ ] Java Properties Class
-- [ ] Java Collection Class
-- [ ] Java Array Class
-
-</details>
-
+| Done | Topic |
+|------|-------|
+| [ ] | Scanner |
+| [ ] | Arrays |
+| [ ] | Strings |
+| [ ] | Date |
+| [ ] | ArrayList |
+| [ ] | Vector |
+| [ ] | Stack |
+| [ ] | PriorityQueue |
+| [ ] | LinkedList |
+| [ ] | ArrayDeque |
+| [ ] | HashMap |
+| [ ] | LinkedHashMap |
+| [ ] | WeakHashMap |
+| [ ] | EnumMap |
+| [ ] | TreeMap |
+| [ ] | IdentityHashMap |
+| [ ] | HashSet |
+| [ ] | EnumSet |
+| [ ] | LinkedHashSet |
+| [ ] | TreeSet |
+| [ ] | BitSet |
+| [ ] | Dictionary |
+| [ ] | Hashtable |
+| [ ] | Properties |
+| [ ] | Collection |
+| [ ] | Array |
