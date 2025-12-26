@@ -1,5 +1,22 @@
 # My Java Roadmap
+## Table of Contents
 
+- [About Repository](#about-repository)
+- [Progress](#progress)
+- [Repositories](#repositories)
+  - [Getting Started with Java](#1-getting-started-with-java)
+  - [Java Basics](#2-java-basics)
+  - [Java Conditional Statements](#3-java-conditional-statements)
+  - [Java Loops and Control Statements](#4-java-loops-and-control-statements)
+  - [Java Strings and Arrays](#5-java-strings-and-arrays)
+  - [Object-Oriented Programming (OOP)](#6-object-oriented-programming-oop)
+  - [Collections and Interfaces](#7-collections-and-interfaces)
+  - [Exception Handling & File I/O](#8-exception-handling--file-io)
+  - [Java Multithreading](#9-java-multithreading)
+  - [Java Practices](#10-java-practices)
+  - [Java References](#11-java-references)
+
+## About Repository
 Short Java revision marathon focused on fundamentals and practice.
 
 - **Start date:** 2025-12-27
