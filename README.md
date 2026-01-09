@@ -60,32 +60,26 @@ Each section of this roadmap is implemented in a separate repository.
 |11 | Java References | [ ] | ||         
 
 ### 1. Getting Started with Java
-
-| Done | Topic |
-|------|-------|
-| [ x ] | Java - Home |
-| [ x] | Java - Overview |
-| [x] | Java - History |
-| [x] | Java - Features |
-| [x] | Java Vs. C++ |
-| [x] | JVM - Java Virtual Machine |
-| [x] | Java - JDK vs JRE vs JVM |
-| [x] | Java - Hello World Program |
-| [x] | Java - Environment Setup |
-| [x] | Comments |
-| [x] | Java - Basic Syntax |
+- [x] Java - Home  
+- [x] Java - Overview  
+- [x] Java - History  
+- [x] Java - Features  
+- [x] Java Vs. C++  
+- [x] JVM - Java Virtual Machine  
+- [x] Java - JDK vs JRE vs JVM  
+- [x] Java - Hello World Program  
+- [x] Java - Environment Setup  
+- [x] Comments  
+- [x] Java - Basic Syntax  
 
 ### 2. Java Basics
-
-| Done | Topic |
-|------|-------|
-| [x] | Variable Types |
-| [x] | Data Types |
-| [x] | Type Casting |
-| [x] | Unicode System |
-| [x] | Basic Operators |
-| [x] | User Input |
-| [x] | Date & Time |
+- [x] Variable Types  
+- [x] Data Types  
+- [x] Type Casting  
+- [x] Unicode System  
+- [x] Basic Operators  
+- [x] User Input  
+- [x] Date & Time  
 
 ### 3. Java Conditional Statements
 
