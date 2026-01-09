@@ -63,8 +63,8 @@ Each section of this roadmap is implemented in a separate repository.
 
 | Done | Topic |
 |------|-------|
-| [x] | Java - Home |
-| [x] | Java - Overview |
+| [ x ] | Java - Home |
+| [ x] | Java - Overview |
 | [x] | Java - History |
 | [x] | Java - Features |
 | [x] | Java Vs. C++ |
