@@ -72,6 +72,7 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Java - JDK vs JRE vs JVM |
 | [ ] | Java - Hello World Program |
 | [ ] | Java - Environment Setup |
+| [ ] | Comments |
 | [ ] | Java - Basic Syntax |
 
 ### 2. Java Basics
@@ -83,7 +84,6 @@ Each section of this roadmap is implemented in a separate repository.
 | [ ] | Type Casting |
 | [ ] | Unicode System |
 | [ ] | Basic Operators |
-| [ ] | Comments |
 | [ ] | User Input |
 | [ ] | Date & Time |
 
