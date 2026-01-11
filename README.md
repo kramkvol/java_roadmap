@@ -2,7 +2,7 @@
 
 
 **Main learning resource:**  
-https://www.tutorialspoint.com/java/index.htm
+[https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)
 
 **My blog on LinkedIn:**  
 https://www.linkedin.com/in/volha-kramko-a47526323/
