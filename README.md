@@ -1,5 +1,4 @@
-# Table of Contents
-
+# About 
 
 **Main learning resource:**  
 [https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)
