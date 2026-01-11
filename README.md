@@ -92,6 +92,7 @@ Each section of this roadmap is implemented in a separate repository.
 - [ ] Reentrant Monitor
 </details>
 <details> <summary> Java Networking [7 / 7]</summary>
+
 - [x] Networking
 - [x] Socket Programming
 - [x] URL Processing 
