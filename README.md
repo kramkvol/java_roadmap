@@ -7,13 +7,13 @@
 **My blog on LinkedIn:**  
 https://www.linkedin.com/in/volha-kramko-a47526323/
 
-# Progress
+# Reports
 
-| Date | Day | Notes / Output | LinkedIn Report |
-|------|-----|----------------|-----------------|
-|      |     |                |                 |
+| Date | Notes / Output | LinkedIn Report |
+|------|----------------|-----------------|
+|      |                |                 |
 
-# Repositories
+# Progress and Repositories
 
 Each section of this roadmap is implemented in a separate repository.
 
@@ -25,9 +25,7 @@ Each section of this roadmap is implemented in a separate repository.
 | 12.01.2026 | Java Multithreading       | [00 / 13] | https://github.com/kramkvol/java_roadmap_part4 | 
 | 12.01.2026 | Java Synchronization      | [00 / 08] | https://github.com/kramkvol/java_roadmap_part4 | 
 
-
-https://github.com/kramkvol/java_roadmap_part1 :"
- <details> <summary> Getting Started with Java [16 / 17] </summary>
+<details> <summary> Getting Started with Java [16 / 17] </summary>
 
   - [x] Home 
   - [x] Overview
@@ -47,20 +45,14 @@ https://github.com/kramkvol/java_roadmap_part1 :"
   - [x] User Input
   - [ ] Date & Time
 </details>
-
-
 <details> <summary> Java Operators</summary>
 </details>
-
 <details> <summary> Java Control Statements</summary>
 </details>
-
 <details> <summary> Java Object Oriented Programming</summary>
 </details>
-
 <details> <summary> Java Built-in Classes</summary>
 </details>
-
 <details> <summary> Java File Handling [7 / 7]</summary>
 
 - [x] Files
@@ -71,10 +63,8 @@ https://github.com/kramkvol/java_roadmap_part1 :"
 - [x] Directories
 - [x] I/O Streams
 </details>
-
 <details> <summary> Java Error & Exception</summary>
 </details>
-
 <details> <summary> Java Multithreading [0 / 13]</summary>
 
 - [ ] Multithreading
@@ -91,7 +81,6 @@ https://github.com/kramkvol/java_roadmap_part1 :"
 - [ ] Thread Group
 - [ ] Shutdown Hook
 </details>
-
 <details> <summary> Java Synchronization [0 / 8] </summary>
 
 - [ ] Synchronization
@@ -103,7 +92,6 @@ https://github.com/kramkvol/java_roadmap_part1 :"
 - [ ] Thread Control
 - [ ] Reentrant Monitor
 </details>
-
 <details> <summary> Java Networking [7 / 7]</summary>
 - [x] Networking
 - [x] Socket Programming
@@ -113,15 +101,11 @@ https://github.com/kramkvol/java_roadmap_part1 :"
 - [x] HttpURLConnection Class
 - [x] Socket Class
 </details>
-
 <details> <summary> Java Collections</summary>
 </details>
-
 <details> <summary> Java Interfaces</summary>
 </details>
-
 <details> <summary> Java Data Structures</summary>
 </details>
-
 <details> <summary> Java Collections Algorithms</summary>
 </details>
