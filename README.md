@@ -21,8 +21,8 @@ Each section of this roadmap is implemented in a separate repository.
 | 09.01.2026 | Getting Started with Java | [16 / 17] | https://github.com/kramkvol/java_roadmap_part1 |
 | 10.01.2026 | Java Networking           | [07 / 07] | https://github.com/kramkvol/java_roadmap_part2 |
 | 11.01.2026 | Java File Handling        | [07 / 07] | https://github.com/kramkvol/java_roadmap_part3 | 
-| 12.01.2026 | Java Multithreading       | [00 / 13] | https://github.com/kramkvol/java_roadmap_part4 | 
-| 12.01.2026 | Java Synchronization      | [00 / 08] | https://github.com/kramkvol/java_roadmap_part4 | 
+| 12.01.2026 | Java Multithreading       | [11 / 13] | https://github.com/kramkvol/java_roadmap_part4 | 
+| 12.01.2026 | Java Synchronization      | [05 / 08] | https://github.com/kramkvol/java_roadmap_part4 | 
 
 <details> <summary> Getting Started with Java [16 / 17] </summary>
 
@@ -64,29 +64,29 @@ Each section of this roadmap is implemented in a separate repository.
 </details>
 <details> <summary> Java Error & Exception</summary>
 </details>
-<details> <summary> Java Multithreading [0 / 13]</summary>
+<details> <summary> Java Multithreading [11 / 13]</summary>
 
-- [ ] Multithreading
-- [ ] Thread Life Cycle
-- [ ] Creating a Thread
-- [ ] Starting a Thread
-- [ ] Joining Threads
-- [ ]  Naming Thread
-- [ ] Thread Scheduler
-- [ ] Thread Pools
-- [ ] Main Thread
-- [ ] Thread Priority
-- [ ]  Daemon Threads
+- [x] Multithreading
+- [x] Thread Life Cycle
+- [x] Creating a Thread
+- [x] Starting a Thread
+- [x] Joining Threads
+- [x]  Naming Thread
+- [x] Thread Scheduler
+- [x] Thread Pools
+- [x] Main Thread
+- [x] Thread Priority
+- [x]  Daemon Threads
 - [ ] Thread Group
 - [ ] Shutdown Hook
 </details>
-<details> <summary> Java Synchronization [0 / 8] </summary>
+<details> <summary> Java Synchronization [5 / 8] </summary>
 
-- [ ] Synchronization
-- [ ] Block Synchronization
-- [ ] Static Synchronization
-- [ ] Inter-thread Communication
-- [ ] Thread Deadlock
+- [x] Synchronization
+- [x] Block Synchronization
+- [x] Static Synchronization
+- [x] Inter-thread Communication
+- [x] Thread Deadlock
 - [ ] Interrupting a Thread
 - [ ] Thread Control
 - [ ] Reentrant Monitor
