@@ -17,13 +17,13 @@ https://www.linkedin.com/in/volha-kramko-a47526323/
 
 Each section of this roadmap is implemented in a separate repository.
 
-| Date       | Section                             | Repository                                     |
-|------------|-------------------------------------|------------------------------------------------|
-| 09.01.2026 | Getting Started with Java [16 / 17] | https://github.com/kramkvol/java_roadmap_part1 |
-| 10.01.2026 | Java Networking           [7 / 7]   | https://github.com/kramkvol/java_roadmap_part2 |
-| 11.01.2026 | Java File Handling        [7 / 7]   | https://github.com/kramkvol/java_roadmap_part3 | 
-| 12.01.2026 | Java Multithreading       [0 / 13]  | https://github.com/kramkvol/java_roadmap_part4 | 
-| 12.01.2026 | Java Synchronization      [0 / 8]   | https://github.com/kramkvol/java_roadmap_part4 | 
+| Date       | Section                   | Progress  | Repository                                     |
+|------------|---------------------------|-----------|------------------------------------------------|
+| 09.01.2026 | Getting Started with Java | [16 / 17] | https://github.com/kramkvol/java_roadmap_part1 |
+| 10.01.2026 | Java Networking           | [07 / 07] | https://github.com/kramkvol/java_roadmap_part2 |
+| 11.01.2026 | Java File Handling        | [07 / 07] | https://github.com/kramkvol/java_roadmap_part3 | 
+| 12.01.2026 | Java Multithreading       | [00 / 13] | https://github.com/kramkvol/java_roadmap_part4 | 
+| 12.01.2026 | Java Synchronization      | [00 / 08] | https://github.com/kramkvol/java_roadmap_part4 | 
 
 
 https://github.com/kramkvol/java_roadmap_part1 :"
