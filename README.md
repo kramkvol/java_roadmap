@@ -102,10 +102,23 @@ Each section of this roadmap is implemented in a separate repository.
 - [x] Socket Class
 </details>
 <details> <summary> Java Collections</summary>
+Java - Collections
+Java - Collection Interface
 </details>
 <details> <summary> Java Interfaces</summary>
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
 </details>
 <details> <summary> Java Data Structures</summary>
+Java - Data Structures
+Java - Enumeration
 </details>
 <details> <summary> Java Collections Algorithms</summary>
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
 </details>
