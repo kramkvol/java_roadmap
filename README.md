@@ -1,5 +1,7 @@
 # About 
 
+Each section of this roadmap is implemented in a separate repository.
+
 **Main learning resource:**  
 [https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)
 
@@ -12,17 +14,47 @@ https://www.linkedin.com/in/volha-kramko-a47526323/
 |------|----------------|-----------------|
 |      |                |                 |
 
-# Progress and Repositories
+# Projects
 
-Each section of this roadmap is implemented in a separate repository.
+## java_roadmap_part1
+
+Repository Link: https://github.com/kramkvol/java_roadmap_part1
 
 | Date       | Section                   | Progress  | Repository                                     |
 |------------|---------------------------|-----------|------------------------------------------------|
 | 09.01.2026 | Getting Started with Java | [16 / 17] | https://github.com/kramkvol/java_roadmap_part1 |
+
+## java_roadmap_part2 
+
+Repository Link: https://github.com/kramkvol/java_roadmap_part2
+
+| Date       | Section                   | Progress  | Repository                                     |
+|------------|---------------------------|-----------|------------------------------------------------|
 | 10.01.2026 | Java Networking           | [07 / 07] | https://github.com/kramkvol/java_roadmap_part2 |
+
+## java_roadmap_part3
+
+Repository Link: https://github.com/kramkvol/java_roadmap_part3
+
+| Date       | Section                   | Progress  | Repository                                     |
+|------------|---------------------------|-----------|------------------------------------------------|
 | 11.01.2026 | Java File Handling        | [07 / 07] | https://github.com/kramkvol/java_roadmap_part3 | 
+
+## java_roadmap_part4
+
+Repository Link: https://github.com/kramkvol/java_roadmap_part4
+
+| Date       | Section                   | Progress  | Repository                                     |
+|------------|---------------------------|-----------|------------------------------------------------|
 | 12.01.2026 | Java Multithreading       | [11 / 13] | https://github.com/kramkvol/java_roadmap_part4 | 
 | 12.01.2026 | Java Synchronization      | [05 / 08] | https://github.com/kramkvol/java_roadmap_part4 | 
+
+## java_roadmap_part5
+
+Repository Link: https://github.com/kramkvol/java_roadmap_part5 
+
+
+# tutorialspoint.com/java topics
 
 <details> <summary> Getting Started with Java [16 / 17] </summary>
 
